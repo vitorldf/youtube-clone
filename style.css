@@ -1,21 +1,26 @@
-.youtube-logo{
-    width: 550px;
-    height: auto;
-}
-.search{
-    width: 15px;
-    height: auto;
+*,*::before, *::after{
+    box-sizing: border-box;
+    font-family: Roboto, Arial;
 }
 
- .video_plus{
-    width: 50px;
-    height: auto;
- } 
-.apps{
-    width: 40px;
-    height: auto;
+
+body{
+    margin: :0;
 }
-.Bell{
-    width: 50px;
-    height:auto;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
